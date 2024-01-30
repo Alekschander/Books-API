@@ -13,13 +13,13 @@ In the Javascript/API part of this project select statements are being queried.
 
 The API creates a connection to the database and queries it.
 
-*/api/books* 
-*/api/books/all*  All the information about each book like  its category and Author 
-*/api/books/:attr/:title* Query any attribute of a book
-*/api/authors/:afirst/:alast/totalpagecount* How many Pages an Author wrote
-*/api/categories/avg/pagecount* Average pagecount of each category
-*/api/categories/avg/books*  Average number of books for each category
-*/api/categories/stats* Number of books and pages of each category
+* */api/books* 
+* */api/books/all*  All the information about each book like  its category and Author 
+* */api/books/:attr/:title* Query any attribute of a book
+* */api/authors/:afirst/:alast/totalpagecount* How many Pages an Author wrote
+* */api/categories/avg/pagecount* Average pagecount of each category
+* */api/categories/avg/books*  Average number of books for each category
+* */api/categories/stats* Number of books and pages of each category
 
 # How to setup
 
