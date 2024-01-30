@@ -25,5 +25,5 @@ The API creates a connection to the database and queries it.
 
 1. Run the `booksdb.sql` file 
 2. Open terminal
-	2.1 Change to designated directory
-3. Run this command: `node index.js`
+3. Change to designated directory
+4. Run this command: `node index.js`
